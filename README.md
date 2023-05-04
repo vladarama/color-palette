@@ -1,6 +1,6 @@
 # Color Palette Generator
 
-Color Palette Generator is a personal project that utilizes OpenAI's API and the Davinci-003 model to create a user-friendly web app for generating color palettes based on user prompts. It takes a verbal description of a color palette and returns a list of colors with their hexadecimal codes. Users can then view, copy, and utilize these colors for their own creative design projects.
+Color Palette Generator is a project that utilizes OpenAI's API and the Davinci-003 model to create a user-friendly web app for generating color palettes based on user prompts. It takes a verbal description of a color palette and returns a list of colors with their hexadecimal codes. Users can then view, copy, and utilize these colors for their own creative design projects.
 
 ![Google Brand Colors](./sc/google.png)
 ![Neon Color Palette](./sc/neon.png)
